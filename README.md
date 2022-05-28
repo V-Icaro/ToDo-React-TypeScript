@@ -25,4 +25,4 @@ Your app is ready to be deployed!
 
 You can see this project on link:
 
-### [https://](https://task-list-todo.netlify.app)
+### [ToDo - TS - React](https://task-list-todo.netlify.app)
